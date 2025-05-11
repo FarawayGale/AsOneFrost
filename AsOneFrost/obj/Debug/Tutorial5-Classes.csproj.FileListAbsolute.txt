@@ -1,0 +1,5 @@
+D:\0Downloads\Wildfrost.v1.2.3\Wildfrost.v1.2.3\Modded\Wildfrost_Data\StreamingAssets\Mods\YGOmod\YGOmod.dll
+D:\0Downloads\Wildfrost.v1.2.3\Wildfrost.v1.2.3\Modded\Wildfrost_Data\StreamingAssets\Mods\YGOmod\YGOmod.pdb
+D:\0Downloads\Wildfrost.v1.2.3\Wildfrost.v1.2.3\Modded\Wildfrost_Data\StreamingAssets\Mods\Tutorial5-Classes\obj\Debug\YGOmod.dll
+D:\0Downloads\Wildfrost.v1.2.3\Wildfrost.v1.2.3\Modded\Wildfrost_Data\StreamingAssets\Mods\Tutorial5-Classes\obj\Debug\YGOmod.pdb
+D:\0Downloads\Wildfrost.v1.2.3\Wildfrost.v1.2.3\Modded\Wildfrost_Data\StreamingAssets\Mods\Tutorial5-Classes\obj\Debug\Tutorial5-Classes.csprojResolveAssemblyReference.cache
